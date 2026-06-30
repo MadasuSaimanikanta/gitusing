@@ -11,3 +11,5 @@ console.log(newbalance);
 console.log("previous balance:", balance);
 
 console.log("Transfer amount:", money);
+
+console.log("New Balance", newbalance);
