@@ -13,3 +13,5 @@ console.log("previous balance:", balance);
 console.log("New Balance", newbalance);
 
 console.log("Testing new branch", "Hello from new branch");
+
+console.log("This is new branch for github branch testing");
