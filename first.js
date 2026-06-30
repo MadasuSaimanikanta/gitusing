@@ -4,3 +4,6 @@ console.log(money);
 
 const balance = 1500;
 console.log(balance);
+
+const newbalance = money + balance;
+console.log(newbalance);
