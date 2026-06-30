@@ -9,3 +9,5 @@ const newbalance = money + balance;
 console.log(newbalance);
 
 console.log("previous balance:", balance);
+
+console.log("Transfer amount:", money);
